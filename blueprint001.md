@@ -1,5 +1,7 @@
 # GradIncubator Canned Project Blueprint
 
+![Industrial factory floor with predictive maintenance dashboard overlay — a clean, modern B2B SaaS visual.](https://picsum.photos/seed/machina-guard-cover/1200/400)
+
 **SIC Division 35:** Industrial and Commercial Machinery & Computer Equipment
 
 ---
@@ -96,6 +98,8 @@ SIC Division 35 encompasses:
 - First 18 months targeting: $50M – $75M
 - 3-year opportunity: $200M – $300M
 
+![TAM → SAM → SOM funnel: $28.5B → $12.4B → $50M–$75M first-18-month beachhead.](https://picsum.photos/seed/market-funnel/800/300)
+
 **Market Drivers:**
 - Industry 4.0 mandates (EU, US, China)
 - IoT sensor proliferation (50B connected devices by 2026)
@@ -120,6 +124,8 @@ SIC Division 35 encompasses:
 ---
 
 ### 🚀 CANNED PROJECT: MachinaGuard AI
+
+![MachinaGuard AI product concept — a sleek dashboard showing real-time equipment health scores, risk alerts, and remaining-useful-life gauges on a tablet inside a factory.](https://picsum.photos/seed/machina-dashboard/800/400)
 
 *"Predictive Maintenance for Every Manufacturer"*
 
@@ -296,6 +302,8 @@ Mid-market manufacturers lose $1.2M annually to unplanned downtime because enter
 | Meet customer deadlines | 68% customer churn after 2+ SLA breaches | Proactive customer communication | 85% customer retention improvement |
 | Train new technicians | 40% workforce retiring in 5 years | AI diagnosis + knowledge capture | 50% reduction in training time |
 | Sleep at night | 3 AM emergency calls | Wake up to scheduled reports | 100% reduction in stress |
+
+![ROI bar chart — $1.5M annual downtime cost vs. $9,900 subscription = 7,474% ROI, 4.8-day payback.](https://picsum.photos/seed/roi-chart/700/300)
 
 **ROI Calculator for Customer:**
 
@@ -587,6 +595,8 @@ Mid-market manufacturers lose $1.2M annually to unplanned downtime because enter
 
 ### 📅 IMPLEMENTATION ROADMAP
 
+![Four-phase timeline: MVP (90 days) → PMF (months 4–6) → Scale (months 7–12) → Expansion (year 2+) with revenue milestones $240K → $2M → $7.3M ARR.](https://picsum.photos/seed/roadmap-timeline/900/300)
+
 #### Phase 1: MVP (Days 1–90)
 - Data ingestion from PLCs
 - AI anomaly detection
@@ -721,6 +731,8 @@ The world changed in 2026.
 ---
 
 ### ✅ READY TO START?
+
+![Diverse team of 3–4 recent graduates collaborating around a laptop in a modern co-working space, whiteboard filled with MachinaGuard architecture sketches behind them.](https://picsum.photos/seed/graduate-team/800/400)
 
 #### Immediate Next Steps (This Week)
 
